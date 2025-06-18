@@ -9,5 +9,4 @@ class PedidoServiceApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
