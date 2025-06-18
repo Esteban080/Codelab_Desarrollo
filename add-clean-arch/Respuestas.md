@@ -100,5 +100,3 @@ A través de:
 - **Herramientas de modelado (Sparx EA, ArchiMate)**.
 
 ---
-
-> **Conclusión**: La combinación de ADD y Clean Architecture permite diseñar sistemas que no solo cumplan con los requerimientos funcionales, sino que además respondan eficazmente a atributos de calidad críticos para el negocio. Este enfoque es especialmente poderoso en entornos complejos como los microservicios, donde la estructura, claridad y escalabilidad son fundamentales.
